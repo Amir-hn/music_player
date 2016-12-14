@@ -1,0 +1,69 @@
+c:\users\ahn\documents\visual studio 2015\Projects\music_player\music_player\bin\Debug\music_player.exe.config
+c:\users\ahn\documents\visual studio 2015\Projects\music_player\music_player\bin\Debug\music_player.exe
+c:\users\ahn\documents\visual studio 2015\Projects\music_player\music_player\bin\Debug\music_player.pdb
+c:\users\ahn\documents\visual studio 2015\Projects\music_player\music_player\bin\Debug\Interop.WMPLib.dll
+c:\users\ahn\documents\visual studio 2015\Projects\music_player\music_player\bin\Debug\AxInterop.WMPLib.dll
+c:\users\ahn\documents\visual studio 2015\Projects\music_player\music_player\obj\Debug\Interop.WMPLib.dll
+c:\users\ahn\documents\visual studio 2015\Projects\music_player\music_player\obj\Debug\AxInterop.WMPLib.dll
+c:\users\ahn\documents\visual studio 2015\Projects\music_player\music_player\obj\Debug\music_player.csproj.ResolveComReference.cache
+c:\users\ahn\documents\visual studio 2015\Projects\music_player\music_player\obj\Debug\music_player.Form1.resources
+c:\users\ahn\documents\visual studio 2015\Projects\music_player\music_player\obj\Debug\music_player.Properties.Resources.resources
+c:\users\ahn\documents\visual studio 2015\Projects\music_player\music_player\obj\Debug\music_player.csproj.GenerateResource.Cache
+c:\users\ahn\documents\visual studio 2015\Projects\music_player\music_player\obj\Debug\music_player.exe
+c:\users\ahn\documents\visual studio 2015\Projects\music_player\music_player\obj\Debug\music_player.pdb
+C:\Users\ahn\Documents\Visual Studio 2015\Projects\music_player\music_player\obj\Debug\music_player.Form2.resources
+C:\Users\ahn\Documents\Visual Studio 2015\Projects\music_player\music_player\obj\Debug\music_player.csprojResolveAssemblyReference.cache
+C:\Users\ahn\Documents\Visual Studio 2015\Projects\music_player\version 0.0.1\music_player\bin\Debug\music_player.exe.config
+C:\Users\ahn\Documents\Visual Studio 2015\Projects\music_player\version 0.0.1\music_player\obj\Debug\Interop.WMPLib.dll
+C:\Users\ahn\Documents\Visual Studio 2015\Projects\music_player\version 0.0.1\music_player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ahn\Documents\Visual Studio 2015\Projects\music_player\version 0.0.1\music_player\obj\Debug\music_player.csproj.ResolveComReference.cache
+C:\Users\ahn\Documents\Visual Studio 2015\Projects\music_player\version 0.0.1\music_player\obj\Debug\music_player.exe
+C:\Users\ahn\Documents\Visual Studio 2015\Projects\music_player\version 0.0.1\music_player\obj\Debug\music_player.pdb
+C:\Users\ahn\Documents\Visual Studio 2015\Projects\music_player\version 0.0.1\music_player\bin\Debug\music_player.exe
+C:\Users\ahn\Documents\Visual Studio 2015\Projects\music_player\version 0.0.1\music_player\bin\Debug\music_player.pdb
+C:\Users\ahn\Documents\Visual Studio 2015\Projects\music_player\version 0.0.1\music_player\bin\Debug\Interop.WMPLib.dll
+C:\Users\ahn\Documents\Visual Studio 2015\Projects\music_player\version 0.0.1\music_player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ahn\Documents\Visual Studio 2015\Projects\music_player\version 0.0.1\music_player\obj\Debug\music_player.csprojResolveAssemblyReference.cache
+C:\Users\ahn\Documents\Visual Studio 2015\Projects\music_player\version 0.0.1\music_player\obj\Debug\music_player.Form1.resources
+C:\Users\ahn\Documents\Visual Studio 2015\Projects\music_player\version 0.0.1\music_player\obj\Debug\music_player.Form2.resources
+C:\Users\ahn\Documents\Visual Studio 2015\Projects\music_player\version 0.0.1\music_player\obj\Debug\music_player.Properties.Resources.resources
+C:\Users\ahn\Documents\Visual Studio 2015\Projects\music_player\version 0.0.1\music_player\obj\Debug\music_player.csproj.GenerateResource.Cache
+H:\amir\amir\c#\Projects\music_player\version 0.0.1\music_player\bin\Debug\music_player.exe.config
+H:\amir\amir\c#\Projects\music_player\version 0.0.1\music_player\obj\Debug\Interop.WMPLib.dll
+H:\amir\amir\c#\Projects\music_player\version 0.0.1\music_player\obj\Debug\AxInterop.WMPLib.dll
+H:\amir\amir\c#\Projects\music_player\version 0.0.1\music_player\obj\Debug\music_player.csproj.ResolveComReference.cache
+H:\amir\amir\c#\Projects\music_player\version 0.0.1\music_player\obj\Debug\music_player.exe
+H:\amir\amir\c#\Projects\music_player\version 0.0.1\music_player\obj\Debug\music_player.pdb
+H:\amir\amir\c#\Projects\music_player\version 0.0.1\music_player\bin\Debug\music_player.exe
+H:\amir\amir\c#\Projects\music_player\version 0.0.1\music_player\bin\Debug\music_player.pdb
+H:\amir\amir\c#\Projects\music_player\version 0.0.1\music_player\bin\Debug\mscorlib.dll
+H:\amir\amir\c#\Projects\music_player\version 0.0.1\music_player\bin\Debug\normidna.nlp
+H:\amir\amir\c#\Projects\music_player\version 0.0.1\music_player\bin\Debug\normnfc.nlp
+H:\amir\amir\c#\Projects\music_player\version 0.0.1\music_player\bin\Debug\normnfd.nlp
+H:\amir\amir\c#\Projects\music_player\version 0.0.1\music_player\bin\Debug\normnfkc.nlp
+H:\amir\amir\c#\Projects\music_player\version 0.0.1\music_player\bin\Debug\normnfkd.nlp
+H:\amir\amir\c#\Projects\music_player\version 0.0.1\music_player\bin\Debug\Interop.WMPLib.dll
+H:\amir\amir\c#\Projects\music_player\version 0.0.1\music_player\bin\Debug\AxInterop.WMPLib.dll
+H:\amir\amir\c#\Projects\music_player\version 0.0.1\music_player\obj\Debug\music_player.csprojResolveAssemblyReference.cache
+H:\amir\amir\c#\Projects\music_player\version 0.0.1\music_player\obj\Debug\music_player.Form1.resources
+H:\amir\amir\c#\Projects\music_player\version 0.0.1\music_player\obj\Debug\music_player.Form2.resources
+H:\amir\amir\c#\Projects\music_player\version 0.0.1\music_player\obj\Debug\music_player.Properties.Resources.resources
+H:\amir\amir\c#\Projects\music_player\version 0.0.1\music_player\obj\Debug\music_player.csproj.GenerateResource.Cache
+F:\amir\c#\Projects\music_player\version 0.0.1\music_player\bin\Debug\music_player.exe.config
+F:\amir\c#\Projects\music_player\version 0.0.1\music_player\obj\Debug\Interop.WMPLib.dll
+F:\amir\c#\Projects\music_player\version 0.0.1\music_player\obj\Debug\AxInterop.WMPLib.dll
+F:\amir\c#\Projects\music_player\version 0.0.1\music_player\obj\Debug\music_player.csproj.ResolveComReference.cache
+F:\amir\c#\Projects\music_player\version 0.0.1\music_player\obj\Debug\music_player.exe
+F:\amir\c#\Projects\music_player\version 0.0.1\music_player\obj\Debug\music_player.pdb
+F:\amir\c#\Projects\music_player\version 0.0.1\music_player\bin\Debug\music_player.exe
+F:\amir\c#\Projects\music_player\version 0.0.1\music_player\bin\Debug\music_player.pdb
+F:\amir\c#\Projects\music_player\version 0.0.1\music_player\bin\Debug\Interop.WMPLib.dll
+F:\amir\c#\Projects\music_player\version 0.0.1\music_player\bin\Debug\AxInterop.WMPLib.dll
+F:\amir\c#\Projects\music_player\version 0.0.1\music_player\obj\Debug\music_player.csprojResolveAssemblyReference.cache
+F:\amir\c#\Projects\music_player\version 0.0.1\music_player\obj\Debug\music_player.Form1.resources
+F:\amir\c#\Projects\music_player\version 0.0.1\music_player\obj\Debug\music_player.Properties.Resources.resources
+F:\amir\c#\Projects\music_player\version 0.0.1\music_player\obj\Debug\music_player.csproj.GenerateResource.Cache
+F:\amir\c#\Projects\music_player\version 0.0.1\music_player\bin\Debug\music_player.exe.manifest
+F:\amir\c#\Projects\music_player\version 0.0.1\music_player\bin\Debug\music_player.application
+F:\amir\c#\Projects\music_player\version 0.0.1\music_player\obj\Debug\music_player.exe.manifest
+F:\amir\c#\Projects\music_player\version 0.0.1\music_player\obj\Debug\music_player.application
